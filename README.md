@@ -12,20 +12,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyukta-b&" alt="samyukta-b" /></p>
 
-
-
-
-
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Samyukta-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<p/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samyukta-b&theme=dark&hide_border=false)<p/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyukta-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyukta-b&label=Profile%20views&color=0e75b6&style=flat" alt="samyukta-b" /> </p>
